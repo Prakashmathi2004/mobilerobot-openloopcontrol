@@ -105,10 +105,6 @@ if _name_ == '_main_':
 
 ![mo](https://github.com/Prakashmathi2004/mobilerobot-openloopcontrol/assets/118350045/bb4202cb-6370-4683-b861-4446775cd532)
 
-
-Insert image here
-
-
 <br/>
 <br/>
 <br/>
