@@ -35,9 +35,11 @@ Give ep_chassis.drive_speed to have a circular movement.
 <br/>
 
 ## Program
-```
-##Developed by: PRAKASH M
-##Register number:212222100035
+~~~
+'''
+Developed by: PRAKASH M
+Register number:212222100035
+'''
 
 rom robomaster import robot
 import time
@@ -97,7 +99,7 @@ if _name_ == '_main_':
 
     ep_robot.close()
 
-```
+~~~
 
 ## MobileRobot Movement Image:
 
